@@ -220,7 +220,7 @@ def final(url, number):
 	except Exception as error:
 		print(error)
 		sleep(1.5)
-		final(url)
+		final(url, number)
 
 # iniciando a classe principal
 App()
