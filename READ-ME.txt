@@ -1,0 +1,18 @@
+____________________________________________________________
+novos:
+	¬ Não precisa ter pacotes instalados(pytube integrado);
+	¬ Agora é possivel remover itens da playlist;
+	¬ 3 erros resolvidos;
+	¬ Console(Apenas para Windows)
+____________________________________________________________
+
+primeira vez de uso:
+	1-Crie uma playlist no YouTube(Publica ou não listada);
+	2-Copie o link da sua playlist;
+	3-Entre na pasta "Console(Only WIN)" e abra o arquivo "console.py";
+	4-Escreva "playlist", depois escreva "charge" e cole o seu link e clique Enter
+	5-App configurado
+
+como usar?
+	apenas adicione videos a playlist que você criou.
+	não há necessidade do app está rodando no exato momento.
